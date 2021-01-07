@@ -1,0 +1,6 @@
+name: CerberusLink
+version: ${project.version}
+main: uk.co.voxelfox.cerberuslink.CerberusLink
+api-version: 1.16
+
+depend: [DiscordSRV, Essentials]
